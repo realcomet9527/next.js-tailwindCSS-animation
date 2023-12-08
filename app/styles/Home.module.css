@@ -1,0 +1,158 @@
+.Leftsection1{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692254301/NOMADZ/Rich_Media_Marketing_pvx6xp.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.Leftsection1:hover .overlay{
+    opacity: 0.7;
+}
+
+
+
+
+.Leftsection2{ 
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692191430/NOMADZ/Rich_Media_Left_Page2_qfapgx.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.Leftsection3{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692190381/NOMADZ/Affiliate_Performance_r4qajk.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.Leftsection5{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692190381/NOMADZ/Affiliate_Performance_r4qajk.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.Leftsection6{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692190459/NOMADZ/Media_Buying_hsyc7k.jpg);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.Leftsection7{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692254670/NOMADZ/email-_-Sms_tox7mx.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+
+.Leftsection8b{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692190075/NOMADZ/RetargetingLeft_yotsh7.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+
+.Leftsection9a{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692190343/NOMADZ/Technologyleftup_rdrqwt.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+
+.Leftsection9b{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692190327/NOMADZ/Technologyleftdown_h61bpa.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+
+
+@media screen and (max-width:640px) {
+    .Leftsection1{
+        background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692255018/NOMADZ/1_zozdqw.png);
+        background-position: center;
+        background-size: cover;
+        overflow: hidden;
+    }
+    .Leftsection2{
+        background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692191825/NOMADZ/2_ufwori.png);
+        background-position: center;
+        background-size: cover;
+        overflow: hidden;
+    }
+    .Leftsection3{
+    /* background-image: url(../assests/Images2/MobileView/4.png); */
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.Leftsection4{
+    /* background-image: url(../assests/Images2/MobileView/4.png); */
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.Leftsection5{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692191826/NOMADZ/4_kj8yes.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.Leftsection6{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692441492/MediaMobile_fimxln.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+.Leftsection7{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692255028/NOMADZ/email-_-Sms_01_ud6qjc.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.Leftsection8a{
+    /* background-image: url(../assests/Images2/MobileView/1.png); */
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.Leftsection8b{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692191825/NOMADZ/3_1_tz2wog.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.Leftsection9a{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692191827/NOMADZ/5_1_lc61iu.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.Leftsection9b{
+    /* background-image: url(../assests/Images2/MobileView/16.png); */
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.Leftsection10a{
+    /* background-image: url(../assests/Images2/MobileView/18.png); */
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+}   

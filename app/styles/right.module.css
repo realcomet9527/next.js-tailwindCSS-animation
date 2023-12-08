@@ -1,0 +1,108 @@
+.section1 {
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692187850/NOMADZ/Rich_Media_Right_a8gct0.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.section3{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692190267/NOMADZ/Social_Media_right_nnomke.png);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+
+.section4{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692190305/NOMADZ/Social_Media_right_Page2_dwdabc.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.section5{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692190446/NOMADZ/Influencer_ayobvq.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+
+.section6{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692190221/NOMADZ/RetargetingRight_v9qahr.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.section7{
+    background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692190360/NOMADZ/Technologyrightdown_ese4fb.png);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+}
+
+
+@media screen and (max-width:640px) {
+
+    .section1 {
+        background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692191825/NOMADZ/1_1_qlfjpg.png);
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        overflow: hidden;
+    }
+    .section2Left{
+        /* background-image: url(../assests/Images2/MobileView/5.png); */
+        background-size: cover;
+        background-position: center;
+    }
+    .section3{
+        background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692191825/NOMADZ/3_agswub.png);
+        background-size: cover;
+        background-position: center;
+        overflow: hidden;
+    }
+    .section4{
+        background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692191825/NOMADZ/2_1_of91t7.png);
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        overflow: hidden;
+    }
+    .section5{
+        background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692191826/NOMADZ/5_mteto3.png);
+        background-size: cover;
+        background-position: center;
+        overflow: hidden;
+    }
+    .section6{
+        background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692191826/NOMADZ/4_1_uwghdo.png);
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        overflow: hidden;
+    }
+    .section7{
+        background-image: url(https://res.cloudinary.com/dmqug1qzr/image/upload/v1692191826/NOMADZ/6_1_z15y6s.png);
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        overflow: hidden;
+    }
+    .section8{
+        /* background-image: url(../assests/Images2/MobileView/17.png); */
+        background-size: cover;
+        background-position: center;
+        position: relative;
+        overflow: hidden;
+    }
+
+}

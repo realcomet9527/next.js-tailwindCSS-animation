@@ -1,0 +1,27 @@
+.text-carousel-container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    height: 100px;
+  }
+  
+  .text-carousel-content {
+    width: 100%;
+    transition: transform 0.3s ease;
+    height: 100px;
+  }
+  
+  .text-carousel-item {
+    width: 100%; /* Adjust image width as needed */
+    height: 100px; /* Adjust image height as needed */
+    margin-right: 3%;
+    text-wrap: pretty;
+    color: #FFF;
+
+    font-family: Montserrat;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 34.907px; /* 158.669% */
+    letter-spacing: -0.233px;
+  }
